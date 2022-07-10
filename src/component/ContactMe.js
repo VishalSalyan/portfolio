@@ -28,10 +28,10 @@ class ContactMe extends React.Component {
             >
               <h4 className="contact-me-mail">vishal.salyan@gmail.com</h4>
             </a>
-            <h4 style={{ color: "grey", marginTop: 40 }}>Phone No.</h4>
+            {/* <h4 style={{ color: "grey", marginTop: 40 }}>Phone No.</h4>
             <a style={{ textDecoration: "none" }} href="tel:9050630051">
               <h4 className="contact-me-phone">9050630051</h4>
-            </a>
+            </a> */}
             <Button
               style={{ marginTop: 40 }}
               size="lg"
